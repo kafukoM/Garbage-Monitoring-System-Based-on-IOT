@@ -1,0 +1,40 @@
+repo_name: kafukoM/Garbage-Monitoring-System-Based-on-IOT
+report_id: 7c439a2142a1835dd15ace6fa5affc7b
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:52:25+00:00'
+requested_by: kafukoM
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/kafukoM/Garbage-Monitoring-System-Based-on-IOT
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kafukoM/Garbage-Monitoring-System-Based-on-IOT
+  detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/kafukoM/Garbage-Monitoring-System-Based-on-IOT/blob/master/about.html
+  detection_source: about.html
+  last_updated_by: kafukoM
+  last_updated_on: 2019-07-30 15:38:15.000000000 Z
